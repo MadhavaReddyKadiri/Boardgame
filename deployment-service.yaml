@@ -49,7 +49,7 @@ spec:
           service:
             name: boardgame-ssvc
             port:
-              number: 5678
+              number: 8080
 ---
 
 
